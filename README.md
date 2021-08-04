@@ -1,4 +1,4 @@
-# Energy-Australia
+# Energy-Australia Postman test
 This is a repository for the postman collection
 
 * Download the standalone version of postman https://www.getpostman.com
